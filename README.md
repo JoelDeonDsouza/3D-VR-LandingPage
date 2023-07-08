@@ -17,7 +17,7 @@
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/JoelDeonDsouza/3D-VR-LandingPage.git
 ```
 
 Go to the project directory
